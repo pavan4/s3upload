@@ -31,6 +31,11 @@ bucket_name: xxxxxxx
 # Results from the upload are logged to this file
 logFile : ./results.log 
 ```
+### Log Format
+
+```
+<filename> <response code> <epoch timestamp>
+```
 
 ### Limitations
 
