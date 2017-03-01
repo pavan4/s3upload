@@ -44,3 +44,7 @@ logFile : ./results.log
 
 * Delete and Modify files
 * More threaded support with Thread pools
+
+### Resource
+
+* http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html
